@@ -1,4 +1,3 @@
-## Hi there 👋
 <p align="center">
   <a href="https://github.com/Aronnnn1">
     <img src="https://github.com/Aronnnn1/Aronnnn1/blob/main/assets/logo.png" alt="Aaron B Ajay" /></a>
