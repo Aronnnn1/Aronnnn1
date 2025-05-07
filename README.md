@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+<p align="center">
+  <a href="https://github.com/Aronnnn1">
+    <img src="https://github.com/Aronnnn1/Aronnnn1/blob/main/assets/logo.png" alt="Aaron B Ajay" /></a>
+</p>
 <!--
 **Aronnnn1/Aronnnn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
